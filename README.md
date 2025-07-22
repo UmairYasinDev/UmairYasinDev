@@ -1,11 +1,4 @@
-## Hi there 👋
-
-<!--
-**UmairYasinDev/UmairYasinDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...<h1 align="center">Hi there, I'm Umair 👋</h1>
+<h1 align="center">Hi there, I'm Umair 👋</h1>
 
 <p align="center">
   <strong>Helping Devs Build Real-World Apps 🚀</strong>
@@ -16,10 +9,12 @@ Here are some ideas to get you started:
 ## 🚀 About Me
 
 - 🔧 Full Stack Developer (Frontend + Backend)
-- 🧠 Focused on building scalable and real-world projects
-- 🔍 Specialized in **React Native**, **Spring Boot**, and **C++**
-- ⚙️ Always exploring new AI tools & development workflows
-- 🎯 Mission: Empower developers with practical, job-ready skills
+- 🌱 Currently building real-world cross-platform apps
+- 🧠 Focused on mastering React Native, Spring Boot, and scalable backend systems
+- 🛠️ Specialized in **React Native**, **Spring Boot**, **C++**, and **TypeScript**
+- ⚙️ Passionate about integrating AI into mobile and web solutions
+- 🧑‍🎓 Always learning and implementing the latest tech tools
+- 🎯 Mission: Help developers become client-ready and confident
 - 🌐 Portfolio: [https://yourwebsite.com](https://yourwebsite.com)
 
 ---
@@ -57,9 +52,10 @@ Here are some ideas to get you started:
 
 ## 🧠 Currently Learning
 
-- React Native animations & performance
-- Clean architecture in Spring Boot
-- AI + App integration (OpenAI APIs)
+- 🌀 React Native animations & performance tuning
+- 🧩 Spring Boot Microservices architecture
+- 🧠 Integrating OpenAI APIs into mobile apps
+- ☁️ Firebase authentication & real-time updates
 
 ---
 
@@ -69,11 +65,17 @@ Here are some ideas to get you started:
 [![Email](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail)](mailto:your.email@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=firefox)](https://yourwebsite.com)
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🙋‍♂️ More About Me
+
+- 🌱 I’m currently learning advanced backend architecture
+- 👯 I’m looking to collaborate on open-source full-stack or mobile projects
+- 🤔 I’m looking for help with optimizing app performance
+- 💬 Ask me about React Native, Spring Boot, or how to integrate AI
+- 📫 How to reach me: [your.email@gmail.com](mailto:your.email@gmail.com)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I built my first app before learning what a component was 😅
+
+---
+
